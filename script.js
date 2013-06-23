@@ -1,6 +1,13 @@
+/* Textgame */
+
+function scissors() {
+	document.getElementById("result").innerHTML="coming soon";
+}
+
+
+
 $(document).ready(function(){
-	
-	
+		
 /* bye mouseover the navbuttons get highlighted with a yellow border */
 	
     $('#navHome, #navIssues, #navContact, #navAbout, img').mouseover(function() {
