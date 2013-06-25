@@ -1,7 +1,8 @@
-/* Textgame */
+/* This should be an if-else textgame */
 
-function scissors() {
-	document.getElementById("result").innerHTML="coming soon";
+function game() {
+	var spock=document.getElementById("select").form.id;
+		alert(spock);
 }
 
 
